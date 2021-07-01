@@ -1,0 +1,1 @@
+This is a small module to work with Outlook on a windows OS. Currently is work in progress
